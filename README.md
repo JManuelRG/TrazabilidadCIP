@@ -4,7 +4,7 @@
 ## Dalia Itzel Coss López
 
 
-	## Asesores	
+	# Asesores	
 ## Dr. José Manuel Rivera Garnica
 ## M. en C. Juan Manuel Salgado Román
 ## Lic. Alejandro Chávez Araujo
